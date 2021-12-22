@@ -2028,7 +2028,7 @@ PrefabInstance:
       objectReference: {fileID: 433317143}
     - target: {fileID: 3236863331222454448, guid: 34141e172163c9544accc8c450a5319c, type: 3}
       propertyPath: ForwardForce
-      value: 3000
+      value: 2500
       objectReference: {fileID: 0}
     - target: {fileID: 3236863331222454448, guid: 34141e172163c9544accc8c450a5319c, type: 3}
       propertyPath: sidewaysForce
@@ -2054,6 +2054,10 @@ PrefabInstance:
       propertyPath: rotation
       value: 
       objectReference: {fileID: 1662991642}
+    - target: {fileID: 3236863331222454453, guid: 34141e172163c9544accc8c450a5319c, type: 3}
+      propertyPath: m_Constraints
+      value: 112
+      objectReference: {fileID: 0}
     - target: {fileID: 3891641127982699126, guid: 34141e172163c9544accc8c450a5319c, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9510478

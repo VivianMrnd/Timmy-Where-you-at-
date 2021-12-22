@@ -11,6 +11,7 @@ public class PlayerCollision : MonoBehaviour
         if (collisionInf.collider.tag== "PalmTree")
         {
             FindObjectOfType<life>().TakeDamage(damage);
+
         }
     }
 }

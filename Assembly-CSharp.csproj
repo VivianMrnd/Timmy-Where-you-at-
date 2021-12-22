@@ -62,15 +62,15 @@
     <Compile Include="Assets\Script\LevelComplete.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\PlayerCollision.cs" />
-    <Compile Include="Assets\Script\FollowPlayer.cs" />
-    <Compile Include="Assets\Script\PlayerMovement.cs" />
-    <Compile Include="Assets\Script\Score.cs" />
     <Compile Include="Assets\Script\LevelFinish.cs" />
-    <Compile Include="Assets\Script\Level.cs" />
     <Compile Include="Assets\Script\PlayButton.cs" />
     <Compile Include="Assets\Script\PlayAgain.cs" />
     <Compile Include="Assets\Script\life.cs" />
     <Compile Include="Assets\Script\BgScript.cs" />
+    <Compile Include="Assets\Script\Level.cs" />
+    <Compile Include="Assets\Script\FollowPlayer.cs" />
+    <Compile Include="Assets\Script\PlayerMovement.cs" />
+    <Compile Include="Assets\Script\Score.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Ladymito\Free_cat\Animations\low_poly_cat_animation_list.txt" />
